@@ -7,6 +7,6 @@ target 'InVC-sdk' do
 
   # Pods for InVC-sdk
   
-  pod 'SwiftWebSocket'
+#  pod 'SwiftWebSocket'
   pod 'GoogleWebRTC'
 end
