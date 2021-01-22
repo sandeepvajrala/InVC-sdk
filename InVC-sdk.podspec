@@ -13,7 +13,7 @@ This InVC-sdk view changes its color gradually makes your app look fantastic!
   s.source           = { :git => 'https://github.com/sandeepvajrala/InVC-sdk.git', :tag => s.version.to_s }
  
   s.ios.deployment_target = '10.0'
-  s.source_files = 'InVC-sdk/RTCClient.swift'
+  s.source_files = 'InVC-sdk'
   s.swift_version = "4.2"
   s.dependency 'GoogleWebRTC'
  
