@@ -6,7 +6,6 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 This InVC-sdk view changes its color gradually makes your app look fantastic!
                        DESC
- s.platform          = :ios,"12.1"
   s.homepage         = 'https://github.com/sandeepvajrala/InVC-sdk'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'sandeep' => 'iossandeepreddy@gmail.com' }
